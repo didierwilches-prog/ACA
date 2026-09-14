@@ -1,0 +1,13 @@
+{
+  "name": "estudiantes-app",
+  "version": "1.0.0",
+  "description": "ACA - Manejo y procesamiento de arrays de objetos de estudiantes universitarios con Node.js y Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "demo": "node demo.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
